@@ -1,1 +1,7 @@
-1-fallback[0](mark-3)-9/10/2023-complete data wipe out,all programs lost,the method built using openai api and presaved train conversation deleted, fallback to mark-3,development delayed
+9/10/2023-fallback[0](to mark-3)-complete data wipe out,all programs lost,the method built using openai api and presaved training conversation deleted, fallback to mark-3,development delayed
+----+-------+------------+------------------------+-----------+-------------------------------+-------------------------------------+-----------+---------------------+------------------------
+12/10/2023-trainer and haarcascade added to repo ,trainer file is empty the trained data got deleted in the wipeout which caused the fallback
+-we cannot again use the openai approach, it had limits, only around 400 tokens can be sent including the saved conversation in the .doc file locally
+-Bard(google experiment) says i should use an NLP(natural language procesor) such as SpaCy, Spacy is being updated and bard is being added to it, i can either wait for it to be added or try something in Azure
+
+
