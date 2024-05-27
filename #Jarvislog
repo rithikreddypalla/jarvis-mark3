@@ -3,5 +3,6 @@
 12/10/2023-trainer and haarcascade added to repo ,trainer file is empty the trained data got deleted in the wipeout which caused the fallback
 -we cannot again use the openai approach, it had limits, only around 400 tokens can be sent including the saved conversation in the .doc file locally
 -Bard(google experiment) says i should use an NLP(natural language procesor) such as SpaCy, Spacy is being updated and bard is being added to it, i can either wait for it to be added or try something in Azure
-
-
+---------------------------=----------------------------------+---------------------------------+-----------------+----------------------+-+----------------------------------------+----------+----------------
+5/27/2024
+-made weather method addaptive to any location changes-->note:-this uses ip address of lacal device to find location
