@@ -23,5 +23,3 @@ def weather():
         return forcast
     else:
         return "Not able to get the weather information for your location"
-
-print(weather())
