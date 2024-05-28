@@ -5,4 +5,4 @@
 -Bard(google experiment) says i should use an NLP(natural language procesor) such as SpaCy, Spacy is being updated and bard is being added to it, i can either wait for it to be added or try something in Azure
 ---------------------------=----------------------------------+---------------------------------+-----------------+----------------------+-+----------------------------------------+----------+----------------
 5/27/2024
--made weather method addaptive to any location changes-->note:-this uses ip address of lacal device to find location
+-made weather method addaptive to any location changes-->note:-this uses ip address of local device to find location
