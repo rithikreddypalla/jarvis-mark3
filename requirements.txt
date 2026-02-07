@@ -1,0 +1,13 @@
+pyjokes
+requests
+beautifulsoup4
+speechrecognition
+mutagen
+ibm-watson
+opencv-python
+beeply
+pytube
+pafy
+numpy
+pillow
+pyautogui
